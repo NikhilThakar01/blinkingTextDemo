@@ -1,5 +1,5 @@
 # blinkingTextDemo
-Dynamic infinite blinking text slider with nth number of div 
+Dynamic infinite blinking text slider with N number of div 
 
 
 # Requirement
