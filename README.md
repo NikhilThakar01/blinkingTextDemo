@@ -3,7 +3,8 @@ Dynamic infinite blinking text slider with N number of div
 
 
 # Requirement
-Text blinking slider which work Dynamically for infinite time 
+Text blinking slider which work dynamically for infinite time
+
 User just have to add a new div structure and edit text details from it and it will dynamically reflact in slider
 
 # Solution
