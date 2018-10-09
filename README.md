@@ -14,3 +14,7 @@ After that we added 'done' class in that.
 while the total length of section class div and total length of done class div are equal we just follow the previous process and then we clear all done class and again show the first section div.
 
 So, it will continue from the first section div class and work same as above again. 
+
+To see the output open the below URL.
+
+http://recordit.co/wQSe3JbSuv
